@@ -8,9 +8,9 @@ Micorosoft Office Online: Words.
 
 Operating System:
 Windows 10.
-Unbuntu Version
+Unbuntu Version.
 
-Andriod Snapdragon
+Andriod Snapdragon.
 Apple IOS 10 and more. 
 
 Requirements: 
